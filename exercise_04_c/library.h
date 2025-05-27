@@ -1,0 +1,2 @@
+
+void printParameter(int parameter);
